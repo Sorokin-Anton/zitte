@@ -5,6 +5,8 @@ Currently nothing interesting here. Created via [Emanote]. Some code: `aaaa+2^2`
 import Control.DeepSeq (force)
 import Control.Exception
 import Data.HashMap.Lazy (HashMap)
+
+main = undefined
 ```
 
 Some math: inline as $2+2^2$ and display as:
